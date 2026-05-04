@@ -75,3 +75,12 @@ node <script> "your prompt" --token YOUR_TOKEN
 
 Returns a direct image URL.
 
+## Example Output
+
+```bash
+node muppetportraitgenerator.js "muppet-style puppet portrait, soft felt fabric texture, oversized googly eyes, exaggerated colorful fuzzy fur, big silly grin, vibrant saturated colors, professional studio lighting with soft rim light, Sesame Street aesthetic, plush character vibes, high detail felt material, charming and goofy expression"
+```
+
+![Example output](https://oss.talesofai.cn/picture/acdfb6ea-43ab-4b8c-8ec1-68e665777746.webp)
+
+> Prompt: *"muppet-style puppet portrait, soft felt fabric texture, oversized googly eyes, exaggerated colorful fuzzy fur, big silly grin, vibrant saturated colors, professional studio lighting with soft rim light, Sesame Street aesthetic, plush character vibes, high detail felt material, charming and goofy expression"*
